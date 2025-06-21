@@ -1,0 +1,32 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "追殇 Coding",
+      "url": "https://chenhaotian.top/",
+      "icon": "https://storage.opennet.top/directlink/local/img/base/logo.jpg",
+      "screenshot": "https://storage.opennet.top/directlink/local/img/base/cover.webp",
+      "description": "Faster than light.",
+      "feed": "https://chenhaotian.top/rss.xml",
+      "posts": [
+        {
+          "title": "BageVM 日本 VPS 测评",
+          "link": "https://chenhaotian.top/vps/bagevm-jp/",
+          "published": "2025-05-25 16:00"
+        },
+        {
+          "title": "BageVM 美国 VPS 测评",
+          "link": "https://chenhaotian.top/vps/bagevm-us/",
+          "published": "2025-05-08 16:00"
+        },
+        {
+          "title": "线性代数 学习笔记",
+          "link": "https://chenhaotian.top/study/linear-algebra/",
+          "published": "2025-04-06 16:00"
+        }
+      ],
+      "issue_number": 4,
+      "labels": []
+    }
+  ]
+}
