@@ -1,0 +1,32 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "追殇 Coding",
+      "url": "https://chenhaotian.top/",
+      "icon": "https://storage.opennet.top/directlink/local/img/base/logo.jpg",
+      "screenshot": "https://storage.opennet.top/directlink/local/img/base/cover.webp",
+      "description": "Faster than light.",
+      "feed": "https://chenhaotian.top/rss.xml",
+      "posts": [
+        {
+          "title": "高级网络 期末复习",
+          "link": "https://chenhaotian.top/study/advanced-network-final-review/",
+          "published": "2026-05-10 00:00"
+        },
+        {
+          "title": "iFog GmbH 伦敦 VPS 测评",
+          "link": "https://chenhaotian.top/vps/ifog-gb/",
+          "published": "2026-02-01 00:00"
+        },
+        {
+          "title": "英国各银行 卡BIN 信息整理",
+          "link": "https://chenhaotian.top/finance/bank-in-uk/",
+          "published": "2025-12-25 00:00"
+        }
+      ],
+      "issue_number": 4,
+      "labels": []
+    }
+  ]
+}
